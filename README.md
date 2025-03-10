@@ -1,9 +1,9 @@
 
 # Evolution Game - Python Project
 
-Ein Spiel, das sich von einer Kommandozeile bis zu einem 3D-Multiplayer entwickelt.
+A game that evolves from a command-line interface to a 3D multiplayer experience.
 
-## Starten:
+## How to start:
 ```bash
 python main.py
 ```
