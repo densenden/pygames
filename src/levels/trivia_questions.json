@@ -1,0 +1,27 @@
+[
+    {
+        "question": "What is the capital of France?",
+        "correct": "Paris",
+        "incorrect": ["London", "Berlin", "Madrid"]
+    },
+    {
+        "question": "Who wrote '1984'?",
+        "correct": "George Orwell",
+        "incorrect": ["Aldous Huxley", "J.K. Rowling", "Ernest Hemingway"]
+    },
+    {
+        "question": "What is the largest planet in our Solar System?",
+        "correct": "Jupiter",
+        "incorrect": ["Earth", "Mars", "Saturn"]
+    },
+    {
+        "question": "Which element has the chemical symbol 'O'?",
+        "correct": "Oxygen",
+        "incorrect": ["Gold", "Osmium", "Oganesson"]
+    },
+    {
+        "question": "Who painted the Mona Lisa?",
+        "correct": "Leonardo da Vinci",
+        "incorrect": ["Pablo Picasso", "Vincent van Gogh", "Claude Monet"]
+    }
+]
