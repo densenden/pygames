@@ -2,10 +2,11 @@ import sys
 import os
 import importlib
 
+
 class GameManager:
     def __init__(self):
         self.level = 1
-        self.max_level = 3  # Updated to include Level 3
+        self.max_level = 4  # Updated to include Level 3
 
     def run(self):
         while self.level <= self.max_level:
